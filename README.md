@@ -1,5 +1,5 @@
 - 👋 Hi
-- , I’m @bia-barretohh
+- I’m @bia-barretohh
 - 👀 sou estudante do [Alura](https://www.alura.com.br)
 - 🌱estou aprendendp java
 
