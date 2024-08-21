@@ -1,7 +1,7 @@
 - 👋 ola
 - eu sou @bia-barretohh
 - 👀 sou estudante do [Alura](https://www.alura.com.br)
-- 🌱estou aprendendp java
+- 🌱estou aprendendo java
 
 ![](https://media.tenor.com/63rvIL0liw8AAAAi/tipping-the-hat-tyler-owens.gif)
 <!---
